@@ -18,6 +18,11 @@ Como iremos prever um valor numérico que representa a força do concreto e temo
 
 Com o modelo treinado faremos previsões usando novos dados.
 
+## Sobre o Concreto
+História do Concreto -> https://inovaconcreto.com.br/blog/historia-do-concreto/
+
+Como é feito o Concreto -> https://industriahoje.com.br/como-e-feito-o-concreto
+
 ## ESPAÑOL: 
 
 # Machine Learning en Ingeniería Civil con Apache Spark.
@@ -39,3 +44,7 @@ La variable "Concrete compressive strength" (columna csMPa en el conjunto de dat
 Como vamos a predecir un valor numérico que representa la resistencia del concreto y tenemos datos de entrada y salida, esto será un problema de regresión. Probemos diferentes algoritmos de regresión y elijamos el que represente el mejor rendimiento. Se explorarán técnicas de optimización de hiperparámetros para llegar al mejor modelo posible.
 
 Con el modelo entrenado haremos predicciones usando nuevos datos.
+
+Más información sobre el hormigón -> https://inovaconcreto.com.br/blog/historia-do-concreto/
+
+Cómo se hace el hormigón -> https://industriahoje.com.br/como-e-feito-o-concreto
